@@ -1,0 +1,9 @@
+{
+    "error": {
+        "doNotUnderstand": "Lo siento, no te he entendido"
+    },
+    "relayTurnOn": "El relé ha sido activado.",
+    "relayTurnOff": "El relé ha sido desactivado.",
+    "checkHumidity": "La humedad actual es del {{ humidity }}%.",
+    "checkTemperature": "La temperatura actual es de {{ temperature }} degrees."
+}
